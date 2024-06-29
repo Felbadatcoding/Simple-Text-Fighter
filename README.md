@@ -1,1 +1,1 @@
-Fret not, a better version will come soon!
+this is textfighther developed by the two of us in python. enojoy!
