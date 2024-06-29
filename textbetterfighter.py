@@ -1,6 +1,5 @@
 #text fighter from s2 but better
 #could use classes but i realised halfway and this basically is using classes without classes anyways
-#everything but dig works
 
 #modules
 from random import randint
