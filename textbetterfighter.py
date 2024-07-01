@@ -17,7 +17,7 @@ TUTORIALS = ["Kick. It has a 80% hit rate and deals 10 damage, there is a 10% ch
             "Steal. It has a 40% success rate. There is a 80% chance you will steal 10hp from the enemy and a 20% chance you will steal 20hp",
             "WE THE BEST MUSIC. 100% success rate, increase the effect of the next move by 50%(excluding dig)"
              ]
-MOVES = ["kick", "punch", "dig", "hatsune miku", "steal"]
+MOVES = ["kick", "punch", "dig", "hatsune miku", "steal", "we the best music"]
 
 #moves
 def getmove():
